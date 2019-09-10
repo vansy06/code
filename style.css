@@ -1,0 +1,54 @@
+body
+{
+	margin: 0;
+}
+.banner{
+	width: 100%;
+	height: 300px;
+	background-color: red;
+}
+.left
+{
+    width: 30%;
+    height: 600px;
+    background-color: #;
+    float: left;
+}
+.left1
+{
+	width: 100%;
+    height: 100px;
+    background-color: #C0C0C0;
+    font-size: 33px;
+}
+.left2
+{
+	width: 100%;
+    height: 400px;
+    background-color: #ffffff;
+    font-size: 22px;
+}
+.left2 ul
+{
+	margin: 0
+}
+.left3
+{
+	width: 100%;
+    height: 100px;
+    background-color: #C0C0C0;
+}
+.right
+{
+    width: 70%;
+    height: 600px;
+    background-color: #999999;
+    float: right;
+}
+.footer
+{
+	width: 100%;
+	height: 300px;
+	background-color: pink;
+	clear: both;
+}
