@@ -1,0 +1,29 @@
+body{
+	color: yellow;
+}
+.dropdown{
+
+}
+
+.dropdown li {
+    float: left;
+    width: 25%;
+    background: green;
+}
+
+.dropdown-content {
+    display: none;
+}
+
+.dropdown-content li{
+    width: 100%;
+}
+
+.dropdown .khoa-cntt:hover > .dropdown-content{
+    display: block;
+}
+
+.dropdown .khoa-kinh-te:hover > .dropdown-content{
+    display: block;
+}
+
